@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T16:35:26.255Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="eLeEfSZmrKRXRPGsMATW" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-16T16:41:00.119Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Kq4JeOlZzYOCztvq-G1P" version="24.0.7" type="github" pages="2">
   <diagram id="WbTsOdGPu5BITtIGV-Co" name="Page-1">
     <mxGraphModel dx="2284" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -742,10 +742,10 @@
           <mxGeometry x="95.64999999999998" y="99" width="270" height="167" as="geometry" />
         </mxCell>
         <mxCell id="H7hXGMTyDI1vh69EDJC5-7" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Myriad Pro Condensed&quot; color=&quot;#b3b3b3&quot;&gt;Aplicação&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;rotation=-90;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="38" y="174.79999999999995" width="172.82" height="17" as="geometry" />
+          <mxGeometry x="46.41" y="174.21" width="156" height="17" as="geometry" />
         </mxCell>
         <mxCell id="H7hXGMTyDI1vh69EDJC5-8" value="&lt;span style=&quot;color: rgb(179, 179, 179); font-family: &amp;quot;Myriad Pro Condensed&amp;quot;; font-size: 20px;&quot;&gt;Transporte&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;rotation=-90;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="63.14999999999998" y="449" width="123.75" height="17" as="geometry" />
+          <mxGeometry x="71.57" y="439.58" width="106.9" height="17" as="geometry" />
         </mxCell>
         <mxCell id="H7hXGMTyDI1vh69EDJC5-9" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Myriad Pro Condensed&quot; color=&quot;#b3b3b3&quot;&gt;Segurança&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;rotation=-90;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="76.75" y="314.1" width="96.56" height="17" as="geometry" />
@@ -883,7 +883,7 @@
           <mxGeometry x="629.65" y="305" width="96.56" height="17" as="geometry" />
         </mxCell>
         <mxCell id="H7hXGMTyDI1vh69EDJC5-54" value="&lt;span style=&quot;color: rgb(179, 179, 179); font-family: &amp;quot;Myriad Pro Condensed&amp;quot;; font-size: 20px;&quot;&gt;Aplicação&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;rotation=90;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="646.2800000000001" y="159.38" width="142.5" height="17" as="geometry" />
+          <mxGeometry x="655.33" y="159.66" width="124.39" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
