@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T16:41:00.119Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Kq4JeOlZzYOCztvq-G1P" version="24.0.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-16T17:00:16.371Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lNCAugGIxVmQfITRRWmM" version="24.0.7" type="github" pages="2">
   <diagram id="WbTsOdGPu5BITtIGV-Co" name="Page-1">
     <mxGraphModel dx="2284" dy="1893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -723,6 +723,12 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gLoYr40f1haIWT97CSRf-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;fontFamily=MyriadPro-Cond;strokeWidth=1;spacing=4;spacingLeft=2;fontSize=10;strokeColor=#666666;fontColor=#333333;dashed=1;dashPattern=1 4;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="465.65" y="519" width="270" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="gLoYr40f1haIWT97CSRf-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;fontFamily=MyriadPro-Cond;strokeWidth=1;spacing=4;spacingLeft=2;fontSize=10;strokeColor=#666666;fontColor=#333333;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="95.65" y="519" width="270" height="37" as="geometry" />
+        </mxCell>
         <mxCell id="H7hXGMTyDI1vh69EDJC5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;fontFamily=MyriadPro-Cond;strokeWidth=1;spacing=4;spacingLeft=2;fontSize=10;strokeColor=#666666;fontColor=#333333;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="465.65" y="99" width="270" height="137" as="geometry" />
         </mxCell>
@@ -733,10 +739,10 @@
           <mxGeometry x="485.65" y="269" width="204.35" height="90" as="geometry" />
         </mxCell>
         <mxCell id="H7hXGMTyDI1vh69EDJC5-4" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;fontFamily=MyriadPro-Cond;strokeWidth=1;spacing=4;spacingLeft=2;fontSize=10;dashed=1;dashPattern=1 4;strokeColor=#666666;fontColor=#333333;fillColor=#F0F0F0;" vertex="1" parent="1">
-          <mxGeometry x="95.64999999999998" y="269" width="270" height="107" as="geometry" />
+          <mxGeometry x="95.65" y="269" width="270" height="111" as="geometry" />
         </mxCell>
         <mxCell id="H7hXGMTyDI1vh69EDJC5-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;fontFamily=MyriadPro-Cond;strokeWidth=1;spacing=4;spacingLeft=2;fontSize=10;strokeColor=#666666;fontColor=#333333;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
-          <mxGeometry x="95.64999999999998" y="379" width="270" height="137" as="geometry" />
+          <mxGeometry x="95.65" y="383" width="270" height="133" as="geometry" />
         </mxCell>
         <mxCell id="H7hXGMTyDI1vh69EDJC5-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;align=center;fontFamily=MyriadPro-Cond;strokeWidth=1;spacing=4;spacingLeft=2;fontSize=10;strokeColor=#666666;fontColor=#333333;dashed=1;dashPattern=1 4;" vertex="1" parent="1">
           <mxGeometry x="95.64999999999998" y="99" width="270" height="167" as="geometry" />
@@ -884,6 +890,12 @@
         </mxCell>
         <mxCell id="H7hXGMTyDI1vh69EDJC5-54" value="&lt;span style=&quot;color: rgb(179, 179, 179); font-family: &amp;quot;Myriad Pro Condensed&amp;quot;; font-size: 20px;&quot;&gt;Aplicação&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;rotation=90;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="655.33" y="159.66" width="124.39" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="gLoYr40f1haIWT97CSRf-2" value="&lt;span style=&quot;color: rgb(179, 179, 179); font-family: &amp;quot;Myriad Pro Condensed&amp;quot;; font-size: 20px;&quot;&gt;Rede&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;rotation=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="110" y="529" width="50" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="gLoYr40f1haIWT97CSRf-4" value="&lt;span style=&quot;color: rgb(179, 179, 179); font-family: &amp;quot;Myriad Pro Condensed&amp;quot;; font-size: 20px;&quot;&gt;Rede&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 4;rotation=0;fontSize=20;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="671" y="529" width="50" height="17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
